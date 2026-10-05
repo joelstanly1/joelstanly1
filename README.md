@@ -6,7 +6,7 @@ I'm a **B.Tech graduate in Computer Science and Business Systems** with an inter
 
 ### 🛠️ Skills
 - **Data & BI:** Power BI, Tableau, SQL
-- **Programming:** Python
+- **Programming:** Python, C++, c
 - **Business Systems:** SAP FICO, Tally Prime, QuickBooks, Peachtree
 - **Interests:** Data Analysis, Business Intelligence, Financial Data
 

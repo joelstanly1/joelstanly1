@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Joel Stanly 👋
 
-<!--
-**joelstanly1/joelstanly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Business Systems Graduate | Data & Business Analytics
 
-Here are some ideas to get you started:
+I'm a **B.Tech graduate in Computer Science and Business Systems** with an interest in **Data Analytics, Business Intelligence, and Business Systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Data & BI:** Power BI, Tableau, SQL
+- **Programming:** Python
+- **Business Systems:** SAP FICO, Tally Prime, QuickBooks, Peachtree
+- **Interests:** Data Analysis, Business Intelligence, Financial Data
+
+### 🚀 Projects
+**Phishing Attack Detection Using Deep Learning**
+- Applied data processing and machine learning concepts to detect phishing attacks.
+- Gained practical experience working with data and solving a real-world cybersecurity problem.
+
+### 📌 About Me
+- 📊 I enjoy turning data into meaningful insights and visual reports.
+- 🧠 Analytical thinker and fast learner.
+- 🤝 Team player with a strong interest in business and technology.
+- 🌱 Currently developing my skills in **Data Analytics & Business Intelligence**.
+
+### 📫 Let's Connect
+I'm open to opportunities in **Data Analytics, Business Intelligence, and Business Systems**.
